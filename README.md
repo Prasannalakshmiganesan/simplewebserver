@@ -54,4 +54,4 @@ httpd.serve_forever()
 
 
 ## RESULT:
-Thus the webserver is succesfully to diaplay top five web application frameworks
+Thus the webserver is succesfully to display top five web application frameworks
