@@ -49,8 +49,11 @@ httpd.serve_forever()
 
 ## OUTPUT:
 #ServersideOutput
+![image](https://user-images.githubusercontent.com/118610231/207111728-248898c1-3751-4537-bdee-b101b2030723.png)
+
 
 #ClientSideOutput
+![image](https://user-images.githubusercontent.com/118610231/207112264-e986ddbd-e79e-4ab4-9e2f-ab6934869cb5.png)
 
 
 ## RESULT:
